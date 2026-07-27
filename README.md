@@ -216,7 +216,7 @@
 
 <div align="center">
   
-  <img src="https://i.ibb.co.com/YTqBvbS3/image-removebg-preview.png" alt="Abu Hashem Md Rakibul Islam" width="80" height="80" style="border-radius: 50%; border: 3px solid #00ff9d;"/>
+  <img src="https://i.ibb.co.com/QjY35MZv/photo-2026-07-27-23-42-36.jpg" alt="Abu Hashem Md Rakibul Islam" width="80" height="80" style="border-radius: 50%; border: 3px solid #00ff9d;"/>
   
   <h3>💡 "Data is the new oil—refine it wisely."</h3>
   
