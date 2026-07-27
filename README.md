@@ -2,7 +2,7 @@
   
   <!-- Profile Picture -->
   <img 
-    src="[https://i.ibb.co.com/YTqBvbS3/image-removebg-preview.png](https://drive.google.com/file/d/13i8uGTHl2guPzJV-kpzJMrySSzYamLKk/view?usp=sharing)" 
+    src="https://ibb.co.com/62TWVdc" 
     alt="Abu Hashem Md Rakibul Islam"
     style="
       width: 200px; 
