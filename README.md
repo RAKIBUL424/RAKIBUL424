@@ -25,7 +25,7 @@
   
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/Data-Engineering-00ff9d?style=for-the-badge&logo=python&logoColor=white" alt="Backend devlopment using FastAPI" />
+    <img src="https://img.shields.io/badge/Data-Engineering-00ff9d?style=for-the-badge&logo=python&logoColor=white" alt="Backend Devlopment" />
     <img src="https://img.shields.io/badge/Machine-Learning-764ba2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
     <img src="https://img.shields.io/badge/Pipeline-Automation-ff6b6b?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Pipeline Automation" />
   </p>
