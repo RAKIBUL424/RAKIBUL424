@@ -16,7 +16,7 @@
   
   <!-- Title -->
   <h1>👋 Hi, I'm Abu Hashem Md Rakibul Islam</h1>
-  <h3>🎯 Data Engineer | ML Enthusiast | Electronics & Communication Engineer</h3>
+  <h3>🎯 Backend-focused full-stack devloper(Python, React) | ML Enthusiast | Electronics & Communication Engineer</h3>
   
   <!-- Profile Views -->
   <p>
@@ -25,7 +25,7 @@
   
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/Data-Engineering-00ff9d?style=for-the-badge&logo=python&logoColor=white" alt="Data Engineering" />
+    <img src="https://img.shields.io/badge/Data-Engineering-00ff9d?style=for-the-badge&logo=python&logoColor=white" alt="Backend devlopment using FastAPI" />
     <img src="https://img.shields.io/badge/Machine-Learning-764ba2?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
     <img src="https://img.shields.io/badge/Pipeline-Automation-ff6b6b?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Pipeline Automation" />
   </p>
@@ -36,8 +36,8 @@
 
 ## 💫 About Me
 
-🎓 **Electronics & Communication Engineer** with a passion for **Data Engineering & Machine Learning**  
-🔧 Experienced in building automated data pipelines, ETL workflows, and ML models  
+🎓 **Electronics & Communication Engineer** with a passion for **Backend Engineering, Data Engineering, Machine Learning**  
+🔧 Experienced in building Backend using Python,automated data pipelines, ETL workflows, and ML models  
 📊 Transforming raw data into actionable insights using **Python, SQL, and modern data tools**  
 🚀 Always exploring new technologies to optimize data processing and analytics
 
@@ -45,6 +45,10 @@
   <table>
     <tr>
       <td>🔭 <strong>Currently Working On:</strong></td>
+      <td>A Full Stack Website using FastAPI and React</td>
+    </tr>
+    <tr>
+      <td>🔭 <strong>Feel Passion on:</strong></td>
       <td>Scalable ETL Pipelines & ML Solutions</td>
     </tr>
     <tr>
